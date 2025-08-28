@@ -1,0 +1,14 @@
+C:\Users\Gean\Desktop\Programacion Estructurada Grupo 6\Programas básicos en C#\Eje2\bin\Debug\net8.0\Eje2.exe
+C:\Users\Gean\Desktop\Programacion Estructurada Grupo 6\Programas básicos en C#\Eje2\bin\Debug\net8.0\Eje2.deps.json
+C:\Users\Gean\Desktop\Programacion Estructurada Grupo 6\Programas básicos en C#\Eje2\bin\Debug\net8.0\Eje2.runtimeconfig.json
+C:\Users\Gean\Desktop\Programacion Estructurada Grupo 6\Programas básicos en C#\Eje2\bin\Debug\net8.0\Eje2.dll
+C:\Users\Gean\Desktop\Programacion Estructurada Grupo 6\Programas básicos en C#\Eje2\bin\Debug\net8.0\Eje2.pdb
+C:\Users\Gean\Desktop\Programacion Estructurada Grupo 6\Programas básicos en C#\Eje2\obj\Debug\net8.0\Eje2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gean\Desktop\Programacion Estructurada Grupo 6\Programas básicos en C#\Eje2\obj\Debug\net8.0\Eje2.AssemblyInfoInputs.cache
+C:\Users\Gean\Desktop\Programacion Estructurada Grupo 6\Programas básicos en C#\Eje2\obj\Debug\net8.0\Eje2.AssemblyInfo.cs
+C:\Users\Gean\Desktop\Programacion Estructurada Grupo 6\Programas básicos en C#\Eje2\obj\Debug\net8.0\Eje2.csproj.CoreCompileInputs.cache
+C:\Users\Gean\Desktop\Programacion Estructurada Grupo 6\Programas básicos en C#\Eje2\obj\Debug\net8.0\Eje2.dll
+C:\Users\Gean\Desktop\Programacion Estructurada Grupo 6\Programas básicos en C#\Eje2\obj\Debug\net8.0\refint\Eje2.dll
+C:\Users\Gean\Desktop\Programacion Estructurada Grupo 6\Programas básicos en C#\Eje2\obj\Debug\net8.0\Eje2.pdb
+C:\Users\Gean\Desktop\Programacion Estructurada Grupo 6\Programas básicos en C#\Eje2\obj\Debug\net8.0\Eje2.genruntimeconfig.cache
+C:\Users\Gean\Desktop\Programacion Estructurada Grupo 6\Programas básicos en C#\Eje2\obj\Debug\net8.0\ref\Eje2.dll

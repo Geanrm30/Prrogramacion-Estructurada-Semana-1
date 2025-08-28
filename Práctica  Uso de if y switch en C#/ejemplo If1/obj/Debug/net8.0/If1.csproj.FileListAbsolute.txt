@@ -1,0 +1,14 @@
+C:\Users\Gean\Desktop\scsds\If1\bin\Debug\net8.0\If1.exe
+C:\Users\Gean\Desktop\scsds\If1\bin\Debug\net8.0\If1.deps.json
+C:\Users\Gean\Desktop\scsds\If1\bin\Debug\net8.0\If1.runtimeconfig.json
+C:\Users\Gean\Desktop\scsds\If1\bin\Debug\net8.0\If1.dll
+C:\Users\Gean\Desktop\scsds\If1\bin\Debug\net8.0\If1.pdb
+C:\Users\Gean\Desktop\scsds\If1\obj\Debug\net8.0\If1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gean\Desktop\scsds\If1\obj\Debug\net8.0\If1.AssemblyInfoInputs.cache
+C:\Users\Gean\Desktop\scsds\If1\obj\Debug\net8.0\If1.AssemblyInfo.cs
+C:\Users\Gean\Desktop\scsds\If1\obj\Debug\net8.0\If1.csproj.CoreCompileInputs.cache
+C:\Users\Gean\Desktop\scsds\If1\obj\Debug\net8.0\If1.dll
+C:\Users\Gean\Desktop\scsds\If1\obj\Debug\net8.0\refint\If1.dll
+C:\Users\Gean\Desktop\scsds\If1\obj\Debug\net8.0\If1.pdb
+C:\Users\Gean\Desktop\scsds\If1\obj\Debug\net8.0\If1.genruntimeconfig.cache
+C:\Users\Gean\Desktop\scsds\If1\obj\Debug\net8.0\ref\If1.dll

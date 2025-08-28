@@ -1,0 +1,28 @@
+C:\Users\Gean\Desktop\scsds\sw1\bin\Debug\net8.0\Sw1.exe
+C:\Users\Gean\Desktop\scsds\sw1\bin\Debug\net8.0\Sw1.deps.json
+C:\Users\Gean\Desktop\scsds\sw1\bin\Debug\net8.0\Sw1.runtimeconfig.json
+C:\Users\Gean\Desktop\scsds\sw1\bin\Debug\net8.0\Sw1.dll
+C:\Users\Gean\Desktop\scsds\sw1\bin\Debug\net8.0\Sw1.pdb
+C:\Users\Gean\Desktop\scsds\sw1\obj\Debug\net8.0\Sw1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gean\Desktop\scsds\sw1\obj\Debug\net8.0\Sw1.AssemblyInfoInputs.cache
+C:\Users\Gean\Desktop\scsds\sw1\obj\Debug\net8.0\Sw1.AssemblyInfo.cs
+C:\Users\Gean\Desktop\scsds\sw1\obj\Debug\net8.0\Sw1.csproj.CoreCompileInputs.cache
+C:\Users\Gean\Desktop\scsds\sw1\obj\Debug\net8.0\Sw1.dll
+C:\Users\Gean\Desktop\scsds\sw1\obj\Debug\net8.0\refint\Sw1.dll
+C:\Users\Gean\Desktop\scsds\sw1\obj\Debug\net8.0\Sw1.pdb
+C:\Users\Gean\Desktop\scsds\sw1\obj\Debug\net8.0\Sw1.genruntimeconfig.cache
+C:\Users\Gean\Desktop\scsds\sw1\obj\Debug\net8.0\ref\Sw1.dll
+C:\Users\Gean\Desktop\Programacion Estructurada Grupo 6\sw1\bin\Debug\net8.0\Sw1.exe
+C:\Users\Gean\Desktop\Programacion Estructurada Grupo 6\sw1\bin\Debug\net8.0\Sw1.deps.json
+C:\Users\Gean\Desktop\Programacion Estructurada Grupo 6\sw1\bin\Debug\net8.0\Sw1.runtimeconfig.json
+C:\Users\Gean\Desktop\Programacion Estructurada Grupo 6\sw1\bin\Debug\net8.0\Sw1.dll
+C:\Users\Gean\Desktop\Programacion Estructurada Grupo 6\sw1\bin\Debug\net8.0\Sw1.pdb
+C:\Users\Gean\Desktop\Programacion Estructurada Grupo 6\sw1\obj\Debug\net8.0\Sw1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gean\Desktop\Programacion Estructurada Grupo 6\sw1\obj\Debug\net8.0\Sw1.AssemblyInfoInputs.cache
+C:\Users\Gean\Desktop\Programacion Estructurada Grupo 6\sw1\obj\Debug\net8.0\Sw1.AssemblyInfo.cs
+C:\Users\Gean\Desktop\Programacion Estructurada Grupo 6\sw1\obj\Debug\net8.0\Sw1.csproj.CoreCompileInputs.cache
+C:\Users\Gean\Desktop\Programacion Estructurada Grupo 6\sw1\obj\Debug\net8.0\Sw1.dll
+C:\Users\Gean\Desktop\Programacion Estructurada Grupo 6\sw1\obj\Debug\net8.0\refint\Sw1.dll
+C:\Users\Gean\Desktop\Programacion Estructurada Grupo 6\sw1\obj\Debug\net8.0\Sw1.pdb
+C:\Users\Gean\Desktop\Programacion Estructurada Grupo 6\sw1\obj\Debug\net8.0\Sw1.genruntimeconfig.cache
+C:\Users\Gean\Desktop\Programacion Estructurada Grupo 6\sw1\obj\Debug\net8.0\ref\Sw1.dll

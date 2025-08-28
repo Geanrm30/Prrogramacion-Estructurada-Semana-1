@@ -1,0 +1,14 @@
+C:\Users\Gean\Desktop\Programacion Estructurada Grupo 6\Práctica  Uso de if y switch en C#\ejercicio5\bin\Debug\net8.0\ejercicio5.exe
+C:\Users\Gean\Desktop\Programacion Estructurada Grupo 6\Práctica  Uso de if y switch en C#\ejercicio5\bin\Debug\net8.0\ejercicio5.deps.json
+C:\Users\Gean\Desktop\Programacion Estructurada Grupo 6\Práctica  Uso de if y switch en C#\ejercicio5\bin\Debug\net8.0\ejercicio5.runtimeconfig.json
+C:\Users\Gean\Desktop\Programacion Estructurada Grupo 6\Práctica  Uso de if y switch en C#\ejercicio5\bin\Debug\net8.0\ejercicio5.dll
+C:\Users\Gean\Desktop\Programacion Estructurada Grupo 6\Práctica  Uso de if y switch en C#\ejercicio5\bin\Debug\net8.0\ejercicio5.pdb
+C:\Users\Gean\Desktop\Programacion Estructurada Grupo 6\Práctica  Uso de if y switch en C#\ejercicio5\obj\Debug\net8.0\ejercicio5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gean\Desktop\Programacion Estructurada Grupo 6\Práctica  Uso de if y switch en C#\ejercicio5\obj\Debug\net8.0\ejercicio5.AssemblyInfoInputs.cache
+C:\Users\Gean\Desktop\Programacion Estructurada Grupo 6\Práctica  Uso de if y switch en C#\ejercicio5\obj\Debug\net8.0\ejercicio5.AssemblyInfo.cs
+C:\Users\Gean\Desktop\Programacion Estructurada Grupo 6\Práctica  Uso de if y switch en C#\ejercicio5\obj\Debug\net8.0\ejercicio5.csproj.CoreCompileInputs.cache
+C:\Users\Gean\Desktop\Programacion Estructurada Grupo 6\Práctica  Uso de if y switch en C#\ejercicio5\obj\Debug\net8.0\ejercicio5.dll
+C:\Users\Gean\Desktop\Programacion Estructurada Grupo 6\Práctica  Uso de if y switch en C#\ejercicio5\obj\Debug\net8.0\refint\ejercicio5.dll
+C:\Users\Gean\Desktop\Programacion Estructurada Grupo 6\Práctica  Uso de if y switch en C#\ejercicio5\obj\Debug\net8.0\ejercicio5.pdb
+C:\Users\Gean\Desktop\Programacion Estructurada Grupo 6\Práctica  Uso de if y switch en C#\ejercicio5\obj\Debug\net8.0\ejercicio5.genruntimeconfig.cache
+C:\Users\Gean\Desktop\Programacion Estructurada Grupo 6\Práctica  Uso de if y switch en C#\ejercicio5\obj\Debug\net8.0\ref\ejercicio5.dll
